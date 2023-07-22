@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A Software Architect with 9+ years of experience in the Industry. 
+Currently Designing and Developing Systems involving Microsoft Dynamics 365 CE, Power Platform & Azure
 
-### More Information
+### Technical skills
 
-A place to include any other types of information that you'd like to include about yourself.
+Experience :👇
+• Microsoft Dynamics CRM on-premise
+• Microsoft Dynamics 365 CE online
+• Canvas Apps , Cloud Flows 
+• PCF component development
+• SSRS, Power BI
+• Upstream and Downstream Integrations from D365 CE <> BC, Sharepoint, Azure..
+• Azure CI-CD pipelines
+• System design
+• C# • Javascript
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rs.shayan@outlook.com](mailto:rs.shayan@outlook.com)
